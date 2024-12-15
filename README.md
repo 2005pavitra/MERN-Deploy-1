@@ -32,14 +32,12 @@ Clone the repository: git clone https://github.com/2005pavitra/MERN-Deploy-1.git
 
 Navigate to the backend folder and install dependencies:
 
-bash
-Copy code
-cd backend
-npm install
-Navigate to the frontend folder and install dependencies:
 
-bash
-Copy code
+cd backend
+
+npm install
+
+Navigate to the frontend folder and install dependencies:
 
 cd frontend
 
