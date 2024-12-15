@@ -1,4 +1,5 @@
 User Signup and Login Page - MERN Stack
+
 This project is a user authentication system built using the MERN (MongoDB, Express, React, Node.js) stack. It allows users to register, log in, and securely authenticate using JSON Web Tokens (JWT). The app includes a responsive and user-friendly interface for both signup and login pages, leveraging Bootstrap for styling.
 
 Key Features:
