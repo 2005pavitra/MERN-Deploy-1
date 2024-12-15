@@ -28,7 +28,7 @@ Installation:
 
 To run the project locally:
 
-Clone the repository: git clone https://github.com/yourusername/repository-name.git
+Clone the repository: git clone https://github.com/2005pavitra/MERN-Deploy-1.git
 
 Navigate to the backend folder and install dependencies:
 
